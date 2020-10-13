@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "410411843600",
+    "firebase_url": "https://quizapp-81635.firebaseio.com",
+    "project_id": "quizapp-81635",
+    "storage_bucket": "quizapp-81635.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410411843600:android:33d075c8eef65d9fe30a95",
+        "android_client_info": {
+          "package_name": "com.ag.fire_noti_f"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410411843600-4ijifsrjmjmjmdgdk8uo1h8d52fjkdfu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ag.fire_noti_f",
+            "certificate_hash": "876fe66b6138809fd95a2009b518b1b210bef9be"
+          }
+        },
+        {
+          "client_id": "410411843600-6543a9m5buqi41qg0bi2ouu494mgo4uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaKvt4XjRknIGAIK5WETuyO_0BSFy7v7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410411843600-6543a9m5buqi41qg0bi2ouu494mgo4uv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "410411843600-l56fnb4akr6ctav9cvv33fiutl5atj5l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ag.fireNotif"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410411843600:android:7e69fa1a76fd9818e30a95",
+        "android_client_info": {
+          "package_name": "com.ag.my_flutter_messaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410411843600-d78catd35dtjbroigh0nb7uourhe7tnn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ag.my_flutter_messaging",
+            "certificate_hash": "876fe66b6138809fd95a2009b518b1b210bef9be"
+          }
+        },
+        {
+          "client_id": "410411843600-6543a9m5buqi41qg0bi2ouu494mgo4uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaKvt4XjRknIGAIK5WETuyO_0BSFy7v7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410411843600-6543a9m5buqi41qg0bi2ouu494mgo4uv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "410411843600-l56fnb4akr6ctav9cvv33fiutl5atj5l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ag.fireNotif"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
